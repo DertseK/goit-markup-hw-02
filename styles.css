@@ -4,7 +4,7 @@ body {
     background-color: #FFFFFF;;
 }
 header {
-    background: rgba(46, 47, 66, 1);
+    background: #E7E9FC;
 }
 footer {
     background: rgba(46, 47, 66, 1);
@@ -30,4 +30,10 @@ a{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+}
+.logolink:hover {
+    color: #404bbf;
+}
+.logolink:focus {
+    color: #404bbf;
 }
