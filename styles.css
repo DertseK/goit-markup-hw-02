@@ -1,4 +1,11 @@
-.pass {
-    color: blue;
-    font-size: 1000px;
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(7, 1, 1);
+    background-color: #FFFFFF;;
+}
+header {
+    background: rgba(46, 47, 66, 1);
+}
+footer {
+    background: rgba(46, 47, 66, 1);
 }
