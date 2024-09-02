@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;;
+}
+header {
+    background: rgba(46, 47, 66, 1);
+}
+footer {
+    background: rgba(46, 47, 66, 1);
+}
+a{
+     text-decoration: none;
+}
