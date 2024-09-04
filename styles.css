@@ -80,8 +80,11 @@ a{
     cursor: pointer;
 }
 .esfybbutton:hover {
-    color: #404bbf;
+    background-color: #404bbf;
 }
 .esfybbutton:focus {
-    color: #404bbf;
+    background-color: #404bbf;
+}
+.nullseen {
+    font-weight: 500;
 }
