@@ -103,10 +103,20 @@ a{
 }
 .otm {
     font-weight: 500;
-    font-size: 36p;
+    font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     color: #2e2f42;
     text-align: center;
     text-transform: capitalize
+}
+.lists3 {
+    background-color: #FFFFFF
+}
+.listh {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
