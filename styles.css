@@ -98,3 +98,15 @@ a{
     letter-spacing: 0.02em;
     color: #434455;
 }
+.sec3 {
+    background-color: #F4F4FD;
+}
+.otm {
+    font-weight: 500;
+    font-size: 36p;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-align: center;
+    text-transform: capitalize
+}
