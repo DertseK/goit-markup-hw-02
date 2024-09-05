@@ -1,7 +1,8 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
-    background-color: #FFFFFF;;
+    background-color: #FFFFFF;
+    max-width: 2440px;
 }
 header {
     background: #E7E9FC;
@@ -148,4 +149,18 @@ a{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+.some {
+    display: flex;
+    align-items: center;
+}
+.some li {
+    margin: 0 1rem;
+}
+.cot {
+    display: flex;
+    align-items: center;
+}
+.cot li {
+    margin: 0 1rem;
 }
