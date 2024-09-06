@@ -2,10 +2,9 @@ body {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
-    max-width: 2440px;
 }
 header {
-    background: #E7E9FC;
+    background: #FFFFFF;
 }
 footer {
     background: rgba(46, 47, 66, 1);
@@ -13,14 +12,25 @@ footer {
 a{
      text-decoration: none;
 }
+ul {
+    list-style: none;
+}
 .logo {
-    font-family: "Raleway",
+/*    font-family: "Raleway",
         sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    color: #4d5ae5; */
+
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    text-align: left;
     color: #4d5ae5;
 }
 .logo2 {
@@ -87,43 +97,81 @@ a{
     background-color: #404bbf;
 }
 .nullseen {
-    font-weight: 500;
+/*    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    letter-spacing: 0.02em; */
+    color: #2e2f42; 
+
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    text-align: left;
+
 }
 .nullseenp {
-    font-size: 16px;
+/*    font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02em; */
     color: #434455;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
 }
 .secthree {
     background-color: #F4F4FD;
 }
 .otm {
-    font-weight: 500;
+/*   font-weight: 500;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     color: #2e2f42;
     text-align: center;
-    text-transform: capitalize
+    text-transform: capitalize */
+
+    color: #2e2f42;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    text-align: center;
 }
 .liststhree {
     background-color: #FFFFFF
 }
 .listh {
-    font-weight: 500;
+/*    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2e2f42;*/
+
     color: #2e2f42;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: center;
 }
 .limg {
-    font-size: 36px;
-    line-height: 1.11;
+/*    font-size: 36px;
+    line-height: 1.11;*/
+
+
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: center;
 }
 .limgp {
     font-size: 16px;
@@ -131,25 +179,53 @@ a{
     letter-spacing: 0.02em;
 }
 .logothree {
-    color: #f4f4fd
+    color: #f4f4fd;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    text-align: left;
 }
 .footp {
-    line-height: 1.5;
+/*    line-height: 1.5;
     color: #F4F4FD;
+    letter-spacing: 0.02em; */
+
+
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
     letter-spacing: 0.02em;
+    text-align: left;
 }
 .items {
-    font-weight: 500;
+/*    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2e2f42; */
     color: #2e2f42;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
 }
 .itemsp {
-    font-size: 16px;
+/*    font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em; */
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
     letter-spacing: 0.02em;
+    text-align: left;
 }
+/*
 .some {
     display: flex;
     align-items: center;
@@ -164,3 +240,4 @@ a{
 .cot li {
     margin: 0 1rem;
 }
+*/
