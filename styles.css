@@ -49,10 +49,19 @@ ul {
     color: #404bbf;
 }
 .adress {
+    /*
     font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: #434455; */
+
+
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
 
 }
 .adress:hover {
@@ -74,13 +83,23 @@ ul {
     color: #4d5ae5;
 }
 .esfybtxt {
+    /*
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
+    color: #ffffff; */
+
     color: #ffffff;
+    font-family: Roboto;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0.02em;
+    text-align: center;
 }
 .esfybbutton {
+    /*
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -88,6 +107,15 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
+    cursor: pointer; */
+
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+    text-align: left;
     cursor: pointer;
 }
 .esfybbutton:hover {
