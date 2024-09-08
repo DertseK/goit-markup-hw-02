@@ -29,7 +29,7 @@ ul {
     text-transform: uppercase;
     font-size: 18px;
     font-weight: 700;
-    /*line-height: 21px; */
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-align: left;
     color: #4d5ae5;
@@ -60,7 +60,7 @@ ul {
     font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: left;
     color: #434455;
@@ -79,7 +79,7 @@ ul {
         sans-serif;
     font-weight: 700;
     font-size: 56px;
-    line-height: 60px;
+    line-height: 1.07;
     letter-spacing: 0.02em;
 
     color: #4d5ae5;
@@ -96,7 +96,7 @@ ul {
     font-family: Roboto;
     font-size: 56px;
     font-weight: 700;
-    /*line-height: 60px; */
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
 }
@@ -115,7 +115,7 @@ ul {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.04em;
     text-align: left;
     cursor: pointer;
@@ -136,7 +136,7 @@ ul {
     font-family: Roboto;
     font-size: 20px;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: left;
 
@@ -149,7 +149,7 @@ ul {
     font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: left;
 }
@@ -169,7 +169,6 @@ ul {
     font-family: Roboto;
     font-size: 36px;
     font-weight: 700;
-    /*line-height: 40px; */
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize
@@ -188,17 +187,15 @@ ul {
     font-family: Roboto;
     font-size: 20px;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
 }
 .limg {
 /*    font-size: 36px;
     line-height: 1.11;*/
-
-    line-height: 1.11;
     font-family: Roboto;
-    font-size: 16px;
+    line-height: 1.11;
     font-weight: 400;
     letter-spacing: 0.02em;
     text-align: center;
@@ -213,7 +210,7 @@ ul {
     font-family: Raleway;
     font-size: 18px;
     font-weight: 700;
-    line-height: 21px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-align: left;
 }
@@ -226,7 +223,7 @@ ul {
     font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: left;
 }
@@ -241,7 +238,7 @@ ul {
     font-family: Roboto;
     font-size: 20px;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: left;
 }
@@ -252,7 +249,7 @@ ul {
     font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: left;
 }
